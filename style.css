@@ -1,0 +1,53 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.container{
+    margin-bottom: 60px;
+}
+.bg-image{
+    background-image: url("hot-gadgets/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+.row{
+    padding: 40px 40px;
+}
+.buy-now-button{
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 30px 2px;
+}
+.col-md-6 h1{
+    font-weight: 600;
+}
+.col-md-6 p{
+    color: gray;
+}
+.card{
+    border: none;
+    border-radius: 7px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 10px 10px;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+    text-align: center;
+}
+.card-body h5{
+    font-weight: 600;
+}
+.card-body p{
+    color: gray;
+}
+.card-body{
+    text-align: center;
+}
+.see-more{
+    color: orange;
+}
+.pale-image{
+    width: 100%;
+}
